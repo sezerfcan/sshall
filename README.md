@@ -9,9 +9,12 @@ into a single, free, open-source desktop app.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Platform: macOS](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)
 ![Built with Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B.svg)
+![Release: none yet](https://img.shields.io/badge/release-none%20yet-lightgrey.svg)
 
-> **Status:** Early development. The current build targets **macOS desktop**;
-> additional platforms are a goal, not yet shipped.
+> **Status:** Early development — **no released version yet.** There are no
+> tagged releases or pre-built binaries available for download; for now, run it
+> from source (see [Getting started](#getting-started)). The current build
+> targets **macOS desktop**; additional platforms are a goal, not yet shipped.
 
 ## Features
 
@@ -62,6 +65,8 @@ _Coming soon._
 - **Windowing:** `window_manager`, `desktop_multi_window`
 
 ## Getting started
+
+There are no pre-built binaries yet — build and run from source:
 
 ### Prerequisites
 
