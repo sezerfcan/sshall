@@ -1,0 +1,26 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Misc
+*.log
+
+# Local autonomous-run / QA artifacts (not part of repo doc structure)
+.overnight/
+.qa/
+
+# Flutter DevTools generated config
+devtools_options.yaml

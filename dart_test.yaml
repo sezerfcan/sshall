@@ -1,0 +1,5 @@
+timeout: 5x
+
+tags:
+  live:
+    skip: "live SSH server required; run with --tags live"
